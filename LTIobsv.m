@@ -1,8 +1,9 @@
 function [Mobs,flag,r,rate] = LTIobsv(A,C)
 %{
 This function checks the observability of a given LTI system and provides 
-a measure of the degree of observability as exposed in: "Road roughness 
-identification in vehicle vertical dynamics: behind the scenes".
+a measure of the degree of observability as exposed in: "Road roughness identification in vehicle dynamics:
+the role of measurements in ensuring system
+observability".
 Authors: A. Leanza, S. De Carolis, and L. Soria
 Department of Mechanics, Mathematics and Management
 Polytechnic University of Bari, Italy
